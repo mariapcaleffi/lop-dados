@@ -1,0 +1,8 @@
+#include <stdio.h>
+// olá programação
+
+int main(){
+	printf("Hello World");
+	// isso serve para imprimir
+	return 0;
+}
